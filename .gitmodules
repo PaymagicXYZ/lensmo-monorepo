@@ -1,0 +1,9 @@
+[submodule "lensmo-contract"]
+	path = lensmo-contract
+	url = git@github.com:PaymagicXYZ/lensmo-contract.git
+[submodule "lensmo-be"]
+	path = lensmo-be
+	url = git@github.com:PaymagicXYZ/lensmo-be.git
+[submodule "lensmo-fe"]
+	path = lensmo-fe
+	url = git@github.com:PaymagicXYZ/lensmo-fe.git
